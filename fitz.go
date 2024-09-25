@@ -51,7 +51,7 @@ import (
 	"unsafe"
 )
 
-// Errors.
+// Errors. Testing this out
 var (
 	ErrNoSuchFile    = errors.New("fitz: no such file")
 	ErrCreateContext = errors.New("fitz: cannot create context")
