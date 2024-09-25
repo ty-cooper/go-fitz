@@ -1,3 +1,3 @@
-module github.com/ty-cooper/go-fitz
+module github.com/gen2brain/go-fitz
 
 go 1.20

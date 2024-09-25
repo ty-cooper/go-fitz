@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ty-cooper/go-fitz"
+	"github.com/gen2brain/go-fitz"
 )
 
 func ExampleNew() {
